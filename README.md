@@ -3,6 +3,7 @@
 Projeto de lista de tarefas desenvolvido com React, NodeJS e PostgreSQL.
 
 > [Inspirado neste projeto](https://www.youtube.com/watch?v=qbQ8wzJ6DrQ) 
+
 > [![Repo Icon](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Backend da aplicação disponível aqui](https://github.com/RayssaBuarque/backend_TodoList)
 
 <!-- COMANDOS PARA RODAR:
